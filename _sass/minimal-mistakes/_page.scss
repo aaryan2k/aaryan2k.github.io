@@ -576,3 +576,20 @@ body {
     }
   }
 }
+
+
+.highlights {
+  padding: 20px;
+  border-radius: 5px;
+
+  h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+}
+
