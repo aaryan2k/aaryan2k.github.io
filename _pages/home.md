@@ -11,7 +11,6 @@ header:
 I'm a student at <a href="https://www.d128.org/vhhs" target="_blank" >Vernon Hills High School</a>. This is my personal website where I aggregate things like my <a href="../activities/" >activities</a> and  my <a href="../blogs/" >blogs</a>. Feel free to take a look around.
 
 
-<!-- {% include highlights.md %} -->
 <section class="highlights">
   <h2>Highlights</h2>
   <!-- Add your resume highlights here. For example: -->
