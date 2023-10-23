@@ -10,22 +10,17 @@ header:
 #     - label: "Download"
 #       url: "#test-link"
 excerpt: "Activities"
+---
+
+
 
 ---
 
-## Volunteering at XYZ Charity
+## Teaching Assistant
 
-I volunteered at XYZ Charity from 2020 to 2021, where I helped organize events and fundraisers.
+In 2022, I volunteered as a teching assistant in Orin school, near Muzaffarpur,  Bihar, India.
 
-![XYZ Charity Event](/path/to/your/image1.jpg)
-
----
-
-## Community Clean-Up
-
-In 2019, I participated in a community clean-up event in my local neighborhood.
-
-![Community Clean-Up](/path/to/your/image2.jpg)
+![School](../assets/image/activities/orion1.JPG)
 
 ---
 
