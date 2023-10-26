@@ -284,12 +284,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+   # _pictures
+  - scope:
+      path: ""
+      type: pictures
+    values:
+      layout: single
+      author_profile: false
+      share: true    
   - scope:
       path: ""
     values:
       layout: "default" 
+      
 
 collections:
   authors:
     output: true
+  pictures:
+    output: true
+    permalink: /:collection/:path/  
   

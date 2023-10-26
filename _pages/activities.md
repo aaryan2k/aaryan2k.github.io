@@ -20,8 +20,11 @@ excerpt: "Activities"
 
 In 2022, I volunteered as a teching assistant in Orin school, near Muzaffarpur,  Bihar, India.
 
-![School](../assets/image/activities/orion1.JPG)
+ <img src="../assets/image/activities/orion1.JPG" alt="school pic" width="600" height="400">
+
+
 
 ---
 
 <!-- Add more activities as needed -->
+
