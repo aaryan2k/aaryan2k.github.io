@@ -1,7 +1,7 @@
 ---
 toc: true
 toc_label: "Personalized Learning"
-toc_icon: "cog"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "book-reader"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 # From Code Sensei to E-Learning Innovator: My Journey in Personalized Education
@@ -70,7 +70,7 @@ These contributions aim to enhance the personalization and effectiveness of e-le
 
 ## Crafting Individualized Learning Pathways
 
-- Algorithms for refining student learning pathways: 
+- Algorithms for refining student learning pathways:
 In the realm of personalized learning, algorithms play a quintessential role in refining the educational journey tailored to individual students. These sophisticated computational formulas sift through a plethora of data to discern patterns in learning behaviors, preferences, and performance. By doing so, they help in carving out personalized learning pathways that not only align with a student's academic prowess but also their interests and future aspirations. The algorithms can dynamically adjust the curriculum, suggesting resources and exercises that bolster a student's understanding and engagement. They encapsulate the essence of adaptive learning, rendering a bespoke educational experience that evolves with the learner's progress.
 
 - Enhancements for real-time performance tracking and feedback: 
