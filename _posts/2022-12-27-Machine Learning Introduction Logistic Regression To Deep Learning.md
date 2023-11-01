@@ -126,6 +126,50 @@ With this more complicated multilayer perceptron, it turns out that we can learn
   Beyond the inherent advantages of deep learning, like crafting sophisticated decision boundaries, the multi-layer perceptron offers the added benefit of transfer learning. This approach maximizes data utility, ensuring that every piece of information is harnessed to its fullest potential.
 
 
+## Learning Steps
+
+
+1. **Initialization:**
+   - Start with initial values for the model's parameters (weights and bias). These can be set to zero, small random numbers, or based on some other initialization technique.
+
+2. **Model Prediction:**
+   - For a given input \( X \), compute the linear combination of the input features and the weights, and then pass this through the logistic (sigmoid) function to get the predicted probability \( p(y) \).
+   - The logistic function ensures the output is between 0 and 1, making it interpretable as a probability.
+
+3. **Compute Loss:**
+   - Using the predicted probability \( p(y) \) and the true label \( y \), compute the loss using the Binary Cross-Entropy loss function. It quantifies the difference between the predicted probabilities and the actual class labels.
+
+    Given:
+    - \( y \) as the true label (0 or 1)
+    - \( p(y) \) as the predicted probability of the label being 1
+
+    The Binary Cross-Entropy loss for a single data point is:
+
+    \[ L(y, p(y)) = -[y \log(p(y)) + (1 - y) \log(1 - p(y))] \]
+
+    Here's a breakdown:
+
+    - If \( y = 1 \): The loss is \( -\log(p(y)) \). As \( p(y) \) approaches 1, the loss goes to 0, which is what we want.
+    - If \( y = 0 \): The loss is \( -\log(1 - p(y)) \). As \( p(y) \) approaches 0, the loss goes to 0, aligning with our desired outcome.
+
+    In essence, the loss function penalizes predictions that are far from the true labels, guiding the model to adjust its weights during training to make better predictions.
+
+4. **Calculate Gradients:**
+   - Compute the gradient of the loss concerning each parameter. This step involves taking the derivative of the loss function with respect to each weight and bias. The gradient points in the direction of the steepest increase of the loss function.
+
+5. **Update Parameters:**
+   - Adjust the weights and bias in the opposite direction of the computed gradient. This is done to minimize the loss. The size of the step is determined by the learning rate.
+   - Weight update rule: \( w_{new} = w_{old} - \text{learning rate} \times \text{gradient} \)
+
+6. **Iterate:**
+   - Repeat steps 2 to 5 for a set number of iterations or until the change in loss between iterations is below a predefined threshold.
+
+7. **Model Evaluation:**
+   - After training, evaluate the performance of the logistic regression model on a separate validation or test dataset to ensure it generalizes well to new, unseen data.
+
+8. **Tuning (if necessary):**
+   - If the model's performance is not satisfactory, consider adjusting hyperparameters (like the learning rate), adding regularization, or gathering more data, and then repeat the learning process.
+
 ## Bias-Variance Tradeoff
 
 In the world of machine learning, the bias-variance tradeoff is a fundamental concept that every model grapples with. It's the balancing act between a model's ability to fit training data (bias) and its ability to generalize well to new, unseen data (variance).

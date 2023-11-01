@@ -98,6 +98,18 @@ The applications of CNNs aren't limited to just image classification. A notable 
 - Transfer Learning where neural netwroks designed for Imagenet are tarnsferred for learning parameters applicable for medical imaging.
 - Cancer Diagnosis
 
+
+## ImageNet (ILSVRC) Benchmark Overview:
+
+The ImageNet Large Scale Visual Recognition Challenge (ILSVRC) is one of the most prestigious competitions in computer vision. Over the years, various architectures have been proposed and have achieved state-of-the-art results on this dataset:
+
+2012: AlexNet - Achieved a top-5 error rate of 15.3%. This was a significant improvement over the previous year's best result and marked the beginning of the deep learning era in computer vision.
+2014: GoogLeNet (Inception v1) - Achieved a top-5 error rate of 6.7%. Introduced the inception module, which allowed for more efficient learning of spatial hierarchies.
+2015: ResNet - Achieved a top-5 error rate of 3.6%. Introduced the concept of residual connections, allowing the training of very deep networks (up to 152 layers in the original paper).
+2016 and beyond: Since ResNet, there have been numerous other architectures and improvements, such as DenseNet, EfficientNet, and more. These models have pushed the error rates even lower, with some models achieving top-5 error rates below 3%.
+Transfer Learning: It's worth noting that many of the models trained on ImageNet have been used as base models for transfer learning in other tasks. This is because the features learned by these models on ImageNet have been found to be useful for a wide range of other vision tasks.
+Human-level Performance: Around the mid-2010s, the top-performing models on ImageNet began to achieve error rates that were comparable to, or even better than, human performance. This was a significant milestone in the field of computer vision.
+
 ## Conclusion
 
 Machine learning, though studied for years, has recently surged in prominence, largely due to advancements in deep learning. This is evident in tasks like image analysis where deep learning models excel in labeling intricate images. The ImageNet Challenge, a benchmark for image recognition, highlighted a significant performance leap around 2012, attributed to deep learning innovations. These techniques now even outpace human accuracy in some tasks. The impact extends beyond just images. In medicine, machine learning has sometimes surpassed doctors in diagnosing from images. Additionally, in the gaming world, deep learning has achieved the once-thought-impossible: defeating top human players in the ancient game of Go.
