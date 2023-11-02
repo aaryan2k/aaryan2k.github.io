@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/image/header/splash.jpeg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
-I'm a student at <a href="https://www.d128.org/vhhs" target="_blank" >Vernon Hills High School</a>. This is my personal website where I aggregate things like my <a href="../activities/" >activities</a> and  my <a href="../blogs/" >blogs</a>. Feel free to take a look around.
+I'm a student at <a href="https://www.d128.org/vhhs" target="_blank" >Vernon Hills High School</a>. This is my personal website where I aggregate things like my <a href="../activities/" >activities</a> and  my <a href="../blog/" >blogs</a>. Feel free to take a look around.
 
 
 <section class="highlights">

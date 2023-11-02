@@ -91,7 +91,6 @@ Overall, the multiplex allergen microarray is a promising tool for detecting foo
 
    Despite the challenges, gene editing has the potential to make a significant impact on the lives of people with food allergies. By developing hypoallergenic foods, gene editing could help to prevent allergic reactions and improve the quality of life for people with food allergies.
 
-
 ## Other possibilities
 
 Bioinformatics can play a crucial role in finding a cure for allergies through various ways:
