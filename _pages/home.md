@@ -20,3 +20,7 @@ I'm a student at <a href="https://www.d128.org/vhhs" target="_blank" >Vernon Hil
     <!-- Add more highlights as needed -->
   </ul>
 </section>
+
+<section class="rewards">
+ <img src="../assets/image/header/StateScolarBadge.jpg" alt="isac badge" width="150" height="150">
+ </section>
