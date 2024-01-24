@@ -18,7 +18,7 @@ excerpt: "Activities"
 
 ## Teaching Assistant
 
-In 2022, I volunteered as a teching assistant in Orin school, near Muzaffarpur,  Bihar, India.
+In 2022, I volunteered at Orion school, near Muzaffarpur,  Bihar, India.
 
  <img src="../assets/image/activities/orion1.JPG" alt="school pic" width="600" height="400">
 

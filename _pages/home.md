@@ -15,7 +15,7 @@ I'm a student at <a href="https://www.d128.org/vhhs" target="_blank" >Vernon Hil
   <h2>Highlights</h2>
   <ul>
     <li>Board of Director @ XPerience Coding.</li>
-    <li>3 years of experience as Code Sensei in <a href="https://www.codeninjas.com/il-libertyville/" target="_blank"> Code Ninja.</a></li>
+    <li>3 years of experience as Code Sensei in <a href="https://www.codeninjas.com/il-libertyville/" target="_blank"> Code Ninjas.</a></li>
     <li>AI strategy committee member for <a href="https://www.d128.org/" target="_blank">District 128</a></li>
     <!-- Add more highlights as needed -->
   </ul>
