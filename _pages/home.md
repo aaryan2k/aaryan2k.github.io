@@ -20,8 +20,8 @@ I'm a student at <a href="https://illinois.edu/" target="_blank" >University of 
     <li>Team member of <a href="https://www.illinielectricmotorsports.com/" target="_blank">Illini Electric Motorsports</a></li>
     <li>Team member of <a href="https://www.fftradingroom.com/" target="_blank">Fantasy Trading Room</a> through Project: Code</li>
     <li>Team member of <a href="https://one.illinois.edu/sportsanalyticssociety/home/" target="_blank">Sports Analytics Society</a></li>
-    <li>Team member of Illini Women's Basketball Analytics Team</li>
-    <li>Intern at startup<a href="https://www.fipet.dev/" target="_blank">FiPet</a></li>
+    <li>Data Analyst for Illini Women's Basketball Team</li>
+    <li>Intern at startup <a href="https://www.fipet.dev/" target="_blank">FiPet</a></li>
     <li>Developed<a href="https://github.com/aaryan2k/HoopsNet" target="_blank">HoopsNet</a>in a team at UIUC</li>
     <!-- Add more highlights as needed -->
   </ul>
