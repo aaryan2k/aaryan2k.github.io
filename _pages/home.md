@@ -22,7 +22,7 @@ I'm a student at <a href="https://illinois.edu/" target="_blank" >University of 
     <li>Team member of <a href="https://one.illinois.edu/sportsanalyticssociety/home/" target="_blank">Sports Analytics Society</a></li>
     <li>Data Analyst for Illini Women's Basketball Team</li>
     <li>Intern at startup <a href="https://www.fipet.dev/" target="_blank">FiPet</a></li>
-    <li>Developed<a href="https://github.com/aaryan2k/HoopsNet" target="_blank">HoopsNet</a>in a team at UIUC</li>
+    <li>Developed <a href="https://github.com/aaryan2k/HoopsNet" target="_blank">HoopsNet</a> in a team at UIUC</li>
     <!-- Add more highlights as needed -->
   </ul>
 </section>
