@@ -13,4 +13,4 @@ If the embedded PDF below does not load, you can <a href="/files/AaryansResume.p
 <br/>
 <br/>
 
-<embed src="/files/AaryansResume.pdf" type="application/pdf" width="100%" />
+<embed src="/files/Aaryan_Resume.pdf" type="application/pdf" width="100%" />
